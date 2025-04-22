@@ -24,6 +24,7 @@
 ### Backend
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PHP](https://skillicons.dev/icons?i=php)
 ![Python](https://skillicons.dev/icons?i=py)
 ![Java](https://skillicons.dev/icons?i=java)
 ![PHP](https://skillicons.dev/icons?i=php)
