@@ -44,7 +44,6 @@
 
 ### Bancos de Dados
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
