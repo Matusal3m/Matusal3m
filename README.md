@@ -1,7 +1,2 @@
 # Bom dia, boa tarde e boa noite ☕.
-
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Matusal3m)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matusal3m&layout=compact&theme=vision-friendly-dark)](https://github.com/matusal3m)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Matusal3m&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
