@@ -1,5 +1,4 @@
 # Olá, eu sou Matusal3m!
-## 📊 Alguns dados do meu GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matusal3m&show_icons=true&theme=radical)](https://github.com/Matusal3m)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matusal3m&layout=compact&theme=radical)](https://github.com/Matusal3m)
