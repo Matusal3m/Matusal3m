@@ -1,9 +1,5 @@
-# Olá, eu sou Matusal3m!
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matusal3m&show_icons=true&theme=radical)](https://github.com/Matusal3m)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matusal3m&layout=compact&theme=radical)](https://github.com/Matusal3m)
-
-## 📊 Algumas das tecnologias que uso
+# I'm Matusalém 🤝
+## 📊 Some tech tools
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -22,7 +18,3 @@
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-## 🏆 Conquistas
-
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Matusal3m&theme=onedark&row=2&column=4)](https://github.com/Matusal3m)
